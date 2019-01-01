@@ -1,4 +1,4 @@
-var name = "Susannodejs index.js"
+var name = "Susan"
 var height = "74"
 
 
